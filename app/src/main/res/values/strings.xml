@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">MyRestaurants</string>
+    <string name="find_restaurants">Find Restaurants</string>
+    <string name="myrestaurants">MyRestaurants</string>
+    <string name="find_restaurant">find_restaurants</string>
+    <string name="todo">TODO</string>
+</resources>
